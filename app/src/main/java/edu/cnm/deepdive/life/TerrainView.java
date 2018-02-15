@@ -14,7 +14,7 @@ public class TerrainView extends View {
   private boolean updatePending = false;
 
   {
-    paint.setColor(Color.GREEN);
+    paint.setColor(Color.WHITE);
     setWillNotDraw(false);
   }
 
